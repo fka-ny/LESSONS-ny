@@ -1,0 +1,29 @@
+.navigation{
+
+    
+}
+
+li {
+    display: inline;
+    text-decoration: none;
+    background-color: green;
+    font-size: 25px;
+
+  }
+  li a {
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.player{
+
+
+}
+
+.our-content{
+
+
+
+}
